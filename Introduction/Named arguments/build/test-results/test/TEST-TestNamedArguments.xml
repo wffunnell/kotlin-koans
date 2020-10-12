@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestNamedArguments" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-09T10:56:37" hostname="LONC02VV0HWHV2H" time="0.032">
+<testsuite name="TestNamedArguments" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-10-09T11:08:13" hostname="LONC02VV0HWHV2H" time="0.061">
   <properties/>
-  <testcase name="testJoinToString" classname="TestNamedArguments" time="0.032"/>
+  <testcase name="testJoinToString" classname="TestNamedArguments" time="0.061"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
